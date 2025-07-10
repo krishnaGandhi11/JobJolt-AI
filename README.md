@@ -1,55 +1,95 @@
-# 🧠 Resume Role Classifier (ML Project)
+# ⚡ JobJolt AI - Resume Role Classifier
 
-This project uses **Machine Learning and Natural Language Processing** to automatically predict the most suitable job role for a candidate based on their resume content.
-
-## 🔍 Problem Statement
-Many candidates apply for the wrong job roles, or recruiters have to manually filter hundreds of resumes. This model solves that by **classifying resumes** into roles like:
-- Data Scientist
-- Python Developer
-- Java Developer
-- DevOps Engineer
-- HR, Sales, etc.
-
-## 📁 Project Structure
-
-ResumeRoll/
-├── data/
-│ └── UpdatedResumeDataSet.csv
-├── model/
-│ ├── resume_classifier_model.pkl
-│ └── tfidf_vectorizer.pkl
-├── model.py ← Trains and saves the model
-├── app.py ← Streamlit app to classify resume text
-├── requirements.txt ← All required Python packages
-├── README.md
-
-## ⚙️ How to Run
-
-1. Clone the repo or download the files.
-2. Install requirements: pip install -r requirements.txt
-3. Run the Streamlit app: streamlit run app.py
-
-4. Paste any resume text in the textbox and click **Predict** to get the job role!
-
-## 📊 Model Info
-
-- **Vectorization:** TF-IDF (3000 features)
-- **Model Used:** Multinomial Naive Bayes
-- **Accuracy:** ~98.4%
-- **Libraries Used:** pandas, scikit-learn, streamlit, nltk
-
-## ✨ Features
-
-- Cleans and pre-processes resume data
-- Converts text to numerical features
-- Predicts 25+ job roles using a trained ML model
-- Simple UI via Streamlit
-
-## 👨‍💻 Developed By
-
-Krishna Gandhi  
-Machine Learning using Python - Summer Training 2025
+**JobJolt AI** is an AI-powered web app that classifies uploaded resumes into relevant job roles using Machine Learning. It supports multiple formats (PDF, DOCX, TXT) and provides instant role predictions with confidence scores.
 
 ---
 
-⭐️ Star this repo if you like it!
+## 🔍 Features
+
+- 📝 **Upload or Paste Resume**: PDF, DOCX, TXT, or plain text
+- ⚙️ **TF-IDF Vectorization**: Extracts key information from resumes
+- 🧠 **Naive Bayes Classifier**: Trained on labeled resume data
+- 📈 **Analytics Dashboard**: Visualize predictions and confidence
+- 🎯 **Confidence Score**: Know how sure the model is
+- 🌈 **Beautiful UI**: Built with Streamlit and custom CSS
+
+---
+
+## 🚀 Try It Live
+
+👉 [Click here to access JobJolt AI](https://your-app-link.streamlit.app)  
+(Replace with your deployed link)
+
+---
+
+## 🛠️ How It Works
+
+1. Upload or paste your resume
+2. Text is extracted and vectorized using **TF-IDF**
+3. ML model predicts your job role
+4. You get instant predictions + confidence score
+
+---
+
+## 🧠 Model Details
+
+- **Algorithm**: Multinomial Naive Bayes
+- **Vectorizer**: TF-IDF
+- **Accuracy**: ~95% on test data
+- **Job Roles**: 23+ (e.g. Data Scientist, Java Developer, HR, etc.)
+
+---
+
+## 📦 Tech Stack
+
+- Python
+- Streamlit
+- Scikit-learn
+- Plotly
+- PyMuPDF
+- python-docx
+
+---
+
+## 📂 Project Structure
+
+📁 model/
+└── resume_classifier_model.pkl
+└── tfidf_vectorizer.pkl
+📄 app.py
+📄 requirements.txt
+📄 README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧾 Installation
+
+```bash
+git clone https://github.com/your-username/jobjolt-ai.git
+cd jobjolt-ai
+pip install -r requirements.txt
+streamlit run app.py
+👨‍💻 Developer
+Name: Krishna Gandhi
+
+Version: 2.0 Enhanced
+
+Last Updated: July 2025
+
+📬 Contact
+If you have questions, reach out via [your email] or [LinkedIn profile].
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Just Replace:
+- The `your-app-link` with your deployed Streamlit link
+- https://github.com/krishnaGandhi11/JobJolt-AI
+- https://www.linkedin.com/in/krishna-gandhi-go/
