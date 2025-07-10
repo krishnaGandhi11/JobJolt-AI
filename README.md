@@ -17,8 +17,7 @@
 
 ## 🚀 Try It Live
 
-👉 [Click here to access JobJolt AI](https://your-app-link.streamlit.app)  
-(Replace with your deployed link)
+👉 [Click here to access JobJolt AI]https://jobjolt-ai.streamlit.app/
 
 ---
 
@@ -81,15 +80,13 @@ Version: 2.0 Enhanced
 Last Updated: July 2025
 
 📬 Contact
-If you have questions, reach out via [your email] or [LinkedIn profile].
+If you have questions, reach out via [krishnagandhi0911@gmail.com].
 
 yaml
 Copy
 Edit
 
 ---
-
-### ✅ Just Replace:
-- The `your-app-link` with your deployed Streamlit link
+- https://jobjolt-ai.streamlit.app/
 - https://github.com/krishnaGandhi11/JobJolt-AI
 - https://www.linkedin.com/in/krishna-gandhi-go/
