@@ -82,11 +82,7 @@ Last Updated: July 2025
 📬 Contact
 If you have questions, reach out via [krishnagandhi0911@gmail.com].
 
-yaml
-Copy
-Edit
 
 ---
-- https://jobjolt-ai.streamlit.app/
-- https://github.com/krishnaGandhi11/JobJolt-AI
-- https://www.linkedin.com/in/krishna-gandhi-go/
+- App Link : [https://jobjolt-ai.streamlit.app/]
+- My linked in profile : [https://www.linkedin.com/in/krishna-gandhi-go/]
