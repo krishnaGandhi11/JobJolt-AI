@@ -17,7 +17,7 @@
 
 ## 🚀 Try It Live
 
-👉 [Click here to access JobJolt AI]https://jobjolt-ai.streamlit.app/
+👉 [Click here to access JobJolt AI] : https://jobjolt-ai.streamlit.app/
 
 ---
 
