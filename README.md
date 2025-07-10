@@ -59,10 +59,6 @@
 📄 requirements.txt
 📄 README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧾 Installation
@@ -72,6 +68,8 @@ git clone https://github.com/your-username/jobjolt-ai.git
 cd jobjolt-ai
 pip install -r requirements.txt
 streamlit run app.py
+
+
 👨‍💻 Developer
 Name: Krishna Gandhi
 
@@ -81,8 +79,6 @@ Last Updated: July 2025
 
 📬 Contact
 If you have questions, reach out via [krishnagandhi0911@gmail.com].
-
-
 ---
 - App Link : [https://jobjolt-ai.streamlit.app/]
 - My linked in profile : [https://www.linkedin.com/in/krishna-gandhi-go/]
