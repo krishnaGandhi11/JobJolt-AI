@@ -78,7 +78,8 @@ Version: 2.0 Enhanced
 Last Updated: July 2025
 
 📬 Contact
-If you have questions, reach out via [krishnagandhi0911@gmail.com].
+If you have questions, reach out via krishnagandhi0911@gmail.com
 ---
+
 - App Link : https://jobjolt-ai.streamlit.app/
 - My linked in profile : https://www.linkedin.com/in/krishna-gandhi-go/
